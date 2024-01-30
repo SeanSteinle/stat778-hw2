@@ -1,0 +1,1 @@
+This is my submission for HW1 in STAT778 at GMU. Please run hw2.ipynb to get started!
